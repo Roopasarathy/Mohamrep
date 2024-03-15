@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_gittest.admin" name="x_snc_gittest.admin">c1f9634087898e904b240ed8cebb355f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-15 14:32:38</sys_created_on>
+        <sys_id>c5f9634087898e904b240ed8cebb3562</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c1f9634087898e904b240ed8cebb355f</sys_name>
+        <sys_package display_value="gittest" source="x_snc_gittest">0df9634087898e904b240ed8cebb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gittest">0df9634087898e904b240ed8cebb3555</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c5f9634087898e904b240ed8cebb3562</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-15 14:32:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
